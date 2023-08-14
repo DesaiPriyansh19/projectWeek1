@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+
+}
+
+.input{
+    display: flex;
+}
+body{
+    padding-left: 150px;
+}
+.flex-container{
+    display: flex;
+}
+.box2{
+    padding-left: 10px;
+}
+input[type="text"],textarea{background-color: #f2f2f2;
+width: 100%;
+padding: 10px;
+
+
+}
+small{
+    color: #a29f9f;
+}
+#name{
+    width: 50%;
+    
+    
+}
+h4{
+    color: #656565;
+}
